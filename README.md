@@ -16,6 +16,7 @@ IBM01140
 IBM01141
 IBM01142
 IBM01143
+...
 ```
 ```
 $ java TestDefaultCharset 
