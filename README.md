@@ -1,6 +1,7 @@
 DemoShowDefaultCharset lists all the charsets that can be used: java DemoShowDefaultCharset
 ```
-$java DemoShowDefaultCharset
+$ javac DemoShowDefaultCharset.java
+$ java DemoShowDefaultCharset
 
 Big5
 Big5-HKSCS
@@ -19,6 +20,7 @@ IBM01143
 ...
 ```
 ```
+$ javac TestDefaultCharset.java
 $ java TestDefaultCharset 
 
 My project encoding is : UTF-8
