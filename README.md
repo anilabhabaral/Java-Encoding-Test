@@ -1,5 +1,5 @@
 DemoShowDefaultCharset lists all the charsets that can be used: java DemoShowDefaultCharset
-
+```
 $java DemoShowDefaultCharset
 
 Big5
@@ -16,13 +16,17 @@ IBM01140
 IBM01141
 IBM01142
 IBM01143
-
+```
+```
 $ java TestDefaultCharset 
 
 My project encoding is : UTF-8
 My project encoding is : UTF-8
+```
 
+```
 $ java -Dfile.encoding=ASCII TestDefaultCharset 
 
 My project encoding is : US-ASCII
 My project encoding is : US-ASCII
+```
